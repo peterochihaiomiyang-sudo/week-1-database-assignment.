@@ -1,3 +1,4 @@
+
 -- Week 1 MySQL Database Assignment
 -- Topic: School Management
 
